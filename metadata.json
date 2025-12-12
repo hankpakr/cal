@@ -1,0 +1,7 @@
+{
+  "name": "간편 혈당 계산기",
+  "description": "AI-powered blood sugar prediction and meal analysis tool helping you understand how your food affects your glucose levels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
